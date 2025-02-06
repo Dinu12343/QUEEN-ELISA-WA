@@ -6,7 +6,7 @@ OWNER: @darkmakerofc | @MR-NIMA-X
 */
 
 module.exports = {
-  SESSION_ID: process.env.SESSION_ID || '',
+  SESSION_ID: process.env.SESSION_ID || 'QUEENELISA;;;==wYft2d2ZUMKtUSaBXTL92ZWV2cFVzbUFTTS91UC9EeBNkQCdVUaNzUhVTRjEWYUdkQNRGNpwd=19233404749',
   ALIVE_REACT: '👋',
   ALIVE_MESSAGE: `*Hello @name I am Alive Now !*
 
@@ -23,28 +23,28 @@ module.exports = {
 
 Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
   ALIVE_MEDIA: 'https://telegra.ph/file/d842677f522b6bef4dfe6.jpg',
-  MONGODB_URL: process.env.MONGODB_URL|| '',
+  MONGODB_URL: process.env.MONGODB_URL|| 'mongodb://mongo:TtwmsBvvjWrFrZNgqhSAkGgdShaxFpGR@junction.proxy.rlwy.net:48598',
   PREFIX: '.$&',
   LANGUAGE: 'EN',
   PORT: process.env.PORT || 3000,
   BOT_NAME: 'queen elisa',
-  OWNER_NAME: 'MrNima',
-  OWNER_NUMBER: '94715166712',
-  SUDO: '94715166712',
-  WORK_TYPE: 'private', // ex: public/private
+  OWNER_NAME: 'SHAGEE',
+  OWNER_NUMBER: '94740433291',
+  SUDO: '94740433291',
+  WORK_TYPE: 'public', // ex: public/private
   WORK_MODE: 'all', // ex: all/only_groups/only_pm
   TIME_ZONE: 'Asia/Colombo',
   CAPTION: '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴍᴅ\nmr-nima.vercell.app',
   STICKER_AUTHOR: 'ᴍ ʀ  ɴ ɪ ᴍ ᴀ',
   STICKER_PACK: 'QUEEN ELISA',
   REMOVE_BG_APIKEY: '',
-  MAXIMUM_FILESIZE: 90, //size in MB
+  MAXIMUM_FILESIZE: 100, //size in MB
   OWNER_R_EMOJI: '💻',
   ALIVE_AS_GIF: false,//this only work for short videos
-  AUTO_VOICE: true,
+  AUTO_VOICE: false,
   INBOX_BLOCK: false,
-  OWNER_REACT: true,
-  AUTO_REACT: true,
+  OWNER_REACT: false,
+  AUTO_REACT: false,
   ONLY_PM_GROUP_MSG_SEND: true,// you want WORK_MODE message send
   AUTO_SEEN_STATUS: true,
   BOT_OFFLINE: false,// Bot online status
